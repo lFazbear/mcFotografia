@@ -14,7 +14,7 @@ body {
 /* HERO */
 .hero {
   height: 85vh;
-  background: url("/rsc/HomeBackground.JPG") center/cover no-repeat;
+  background: url("https://res.cloudinary.com/dqufaa0cx/image/upload/v1773690114/HomeBackground_lpjrqz.webp") center/cover no-repeat;
   display: flex;
   align-items:flex-start;
   padding-left: 10%;
@@ -23,7 +23,7 @@ body {
 
 .hero-content h1 {
   font-family: 'Playfair Display', serif;
-  font-size: 120px;
+  font-size: 100px;
   font-weight: 400;
 }
 
@@ -40,7 +40,7 @@ body {
   padding: 14px 28px;
   text-decoration: none;
   display: inline-block;
-  font-size: 26px;
+  font-size: 16px;
   letter-spacing: 2px;
   transition: 0.3s;
   
